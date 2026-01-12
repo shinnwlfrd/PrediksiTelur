@@ -2,6 +2,6 @@ streamlit
 pandas
 os
 io
-xlsxwriter
+XlsxWriter
 datetime
 plotly
